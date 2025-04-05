@@ -106,7 +106,7 @@ class GfG {
                 res.add(ele);
         }
 
-        if (res.size() == 2 && res.get(0) > res.get(1)) {
+        if (res.size() <= 2 && res.get(0) > res.get(1)) {
             int temp = res.get(0);
             res.set(0, res.get(1));
             res.set(1, temp);
