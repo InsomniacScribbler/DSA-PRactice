@@ -1,4 +1,4 @@
-// Java program for finding the majority element in an array
+package Arrays;// Java program for finding the majority element in an array
 // using Moore’s Voting algorithm
 
 import java.util.ArrayList;

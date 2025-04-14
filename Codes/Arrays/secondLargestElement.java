@@ -1,5 +1,5 @@
-import java.util.* ;
-import java.io.*;
+package Arrays;
+
 public class secondLargestElement {
 	public static int findSecondLargest(int n, int[] arr) {
 		// Write your code here.

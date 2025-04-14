@@ -1,4 +1,4 @@
-import java.util.Scanner;
+package Arrays;
 
 public class search {
 	public static int linear_Search(int arr[], int key){

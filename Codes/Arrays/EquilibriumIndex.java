@@ -1,3 +1,5 @@
+package Arrays;
+
 public class EquilibriumIndex {
 
 	public static int arrayEquilibriumIndex(int[] arr) {

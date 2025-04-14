@@ -1,8 +1,5 @@
-// Java Program to solve stock buy and sell
+package Arrays;// Java Program to solve stock buy and sell
 // using one traversal
-
-import java.util.ArrayList;
-import java.util.List;
 
 public class stockPrice {
 

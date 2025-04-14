@@ -1,6 +1,8 @@
+package Arrays;
+
 import java.util.Arrays;
 
-//public class rotateArray {
+//public class Arrays.rotateArray {
 	/*BRUTE FORCE -- public static int[] rotate(int arr[],int d){
 		int n = arr.length;
 		for (int i = 0; i < d; i++) {
@@ -36,7 +38,7 @@ import java.util.Arrays;
 
 		//return arr;
 	//}
-import java.util.Arrays;
+
 
 public class rotateArray {
 	// Function to rotate an array by d elements in counter-clockwise direction

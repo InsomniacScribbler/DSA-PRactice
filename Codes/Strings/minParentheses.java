@@ -1,5 +1,6 @@
+package Strings;
+
 import java.util.* ;
-import java.io.*;
 
 public class minParentheses {
 	public static int minimumParentheses(String pattern) {

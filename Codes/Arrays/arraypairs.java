@@ -1,3 +1,5 @@
+package Arrays;
+
 public class arraypairs {
 	public static void pairs(int arr[]){
 		for (int x = 0; x< arr.length; x++){

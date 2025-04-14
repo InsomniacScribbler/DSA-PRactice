@@ -1,3 +1,5 @@
+package Arrays;
+
 public class FirstMissingPositive {
 
 	public static int MissingPositive(int[] arr, int n) {

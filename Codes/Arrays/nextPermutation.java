@@ -1,3 +1,5 @@
+package Arrays;
+
 public class nextPermutation {
 	// Function to find the next permutation
 	static void nxtPer(int[] arr) {

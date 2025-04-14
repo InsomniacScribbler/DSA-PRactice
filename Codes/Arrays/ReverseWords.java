@@ -1,3 +1,5 @@
+package Arrays;
+
 public class ReverseWords {
 
 	// Method 1: Reverse words using array reversal (your approach)
