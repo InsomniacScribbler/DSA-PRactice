@@ -20,7 +20,7 @@ public class SubarraysDivisibleByK {
 			prefixSum += num;
 
 			// Calculate the remainder of prefix sum modulo k
-			int rem = (prefixSum % k + k) % k;  // Ensure non-negative remainder
+			int rem = prefixSum % k + k;  // Ensure non-negative remainder
 
 			// If the remainder exists in the map, add its frequency to count
 			if (map.containsKey(rem)) {
